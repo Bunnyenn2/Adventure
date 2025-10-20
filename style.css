@@ -1,0 +1,41 @@
+div {background-color: #7c71b2;
+     width: fit-content; padding: 50px; max-width: 1000pt;
+   border: solid 10px #eab64e;
+   border-radius: 100px;
+   margin-top: 50px;
+   margin-right: auto; 
+   margin-left: auto;
+   
+}
+
+.moveIdea {padding-left: 165pt;}
+.moveWin { padding-left: 100pt;}
+.moveEF{ padding-left: 150pt;}
+.moveEndEF { padding: 0pt;}
+.moveEM { padding-left: 180pt;}
+.moveEndEM { padding-left: 140pt}
+.moveEG{ padding-left: 150pt}
+.moveEndEG { padding-left: 160pt }
+.moveSF { padding-left: 90pt;}
+.moveEndSF { padding-left: 60pt;}
+.moveSM {padding-left: 100pt; padding-bottom: 120pt;}
+.moveEndSM { padding-right: 20pt; padding-bottom: 130pt;}
+.moveSG { padding-left: 150pt;}
+.moveEndSG { padding-left: 30pt;}
+.movePF { padding-left: 50pt;}
+.moveEndPF { padding: 0pt;}
+.movePM {padding-left: 50pt;}
+.moveEndPM {padding-left: 55pt;}
+.movePG {padding-left: 60pt;}
+.moveEndPG {padding-left: 80pt;}
+
+h1 { text-align: center;
+    color: #2c1a3c;
+    
+ }
+ body {background-color: #91bde5 ;}
+
+
+h2 { color: #262261;
+text-align: center;
+}
